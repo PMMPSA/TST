@@ -1,0 +1,7 @@
+---
+protect: lock
+banitem:
+  11: Still Lava
+  325: Bucket
+  46: TNT
+...

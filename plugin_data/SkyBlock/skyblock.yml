@@ -1,0 +1,272 @@
+---
+Hoangviphb99:
+  model: fantasy
+  welcome: Ngu
+  friends:
+  - demonGrayVN
+  lock: true
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+demonGrayVN:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends:
+  - Hoangviphb99
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+KUUROOOOO:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+AMUS_:
+  model: wiseman
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 5
+  - 34
+  - 11
+nasigato:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+Danak_:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+Shincutetop1:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends:
+  - Poxnhox
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+Poxnhox:
+  model: resort
+  welcome: lbWelcome to poxnhox island
+  friends:
+  - Shincutetop1
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 6
+  - 35
+  - 13
+TLucMC:
+  model: resort
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 6
+  - 35
+  - 13
+koam:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+cheemse:
+  model: wiseman
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 5
+  - 34
+  - 11
+Khoi987bdbds:
+  model: beach
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 10
+  - 35
+  - 14
+THOR_VNM:
+  model: olympic
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: true
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 35
+  - 12
+S1SEA_SaRaijin:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+Thai:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+diablo9042:
+  model: beach
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 10
+  - 35
+  - 14
+An_____:
+  model: beach
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 10
+  - 35
+  - 14
+Nhocbillgay1:
+  model: resort
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 6
+  - 35
+  - 13
+SlS2DN_HoangVN:
+  model: resort
+  welcome: '@p đã vào đảo'
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 6
+  - 35
+  - 13
+Steve:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+herobrine:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+Jinbanxoai:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends: []
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+dream_:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends:
+  - Shincutetop1
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+Cheems5196:
+  model: fantasy
+  welcome: Welcome to SkyBlock Island
+  friends:
+  - shincutetop1
+  lock: false
+  pvp: false
+  points: 0
+  king-slime:
+  - 12
+  - 33
+  - 7
+...

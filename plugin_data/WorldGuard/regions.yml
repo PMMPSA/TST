@@ -1,0 +1,51 @@
+---
+lobby:
+  pos1:
+  - 131
+  - 0
+  - 68
+  pos2:
+  - -66
+  - 255
+  - -34
+  level: lobby
+  flags:
+    pluginbypass: "false"
+    deny-msg: "false"
+    block-place: "false"
+    block-break: "false"
+    pvp: "false"
+    console-cmd-on-enter: none
+    console-cmd-on-leave: none
+    flow: "true"
+    exp-drops: "true"
+    invincible: "false"
+    fall-dmg: "false"
+    effects: []
+    blocked-cmds: []
+    allowed-cmds: []
+    use: "false"
+    item-drop: "false"
+    item-by-death: "false"
+    explosion: "false"
+    notify-enter: ""
+    notify-leave: ""
+    potions: "false"
+    allowed-enter: "true"
+    allowed-leave: "true"
+    game-mode: survival
+    sleep: "false"
+    send-chat: "true"
+    receive-chat: "true"
+    enderpearl: "false"
+    fly-mode: 0
+    eat: "false"
+    hunger: "false"
+    allow-damage-animals: "false"
+    allow-damage-monsters: "false"
+    allow-leaves-decay: "false"
+    allow-plant-growth: "false"
+    allow-spreading: "false"
+    allow-block-burn: "false"
+    priority: "0"
+...

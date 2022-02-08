@@ -1,0 +1,16 @@
+---
+# Heads costs
+money.zombie: 5000000
+money.issuchitel: 15000000
+money.dragon: 20000000
+money.creeper: 1000000
+
+# Heads Bough
+msg.shop.zombie: "§aKamu Berhasil Membeli §1Zombie"
+msg.shop.issuchitel: "§aKamu Berhasil Membeli §1Wither Skeleton"
+msg.shop.dragon: "§aKamu Berhasil Membeli §1Dragon"
+msg.shop.creeper: "§aKamu Berhasil Membeli §1Creeper"
+
+# Dont have money
+msg.no-money: "§cUang Kamu Tidak Cukup Cuy."
+...

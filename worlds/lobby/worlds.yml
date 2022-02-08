@@ -1,0 +1,13 @@
+---
+permission: lobby.op
+gamemode: "0"
+build: "false"
+pvp: "false"
+damage: "false"
+interact: "false"
+explode: "false"
+drop: "false"
+hunger: "false"
+fly: "false"
+daylightcycle: "false"
+...

@@ -1,0 +1,29 @@
+---
+§e§l• §cKit Tân Thủ §e•:
+  items:
+    2:
+      id: 268
+    3:
+      id: 271
+    4:
+      id: 270
+    5:
+      id: 298
+    6:
+      id: 299
+    7:
+      id: 300
+    8:
+      id: 301
+  armor: []
+  price: 0
+  cooldown: 400000000
+  flags:
+    locked: false
+    doOverride: false
+    doOverrideArmor: false
+    alwaysClaim: false
+    emptyOnClaim: true
+    chestKit: false
+  permission: ""
+...

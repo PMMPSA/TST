@@ -1,0 +1,143 @@
+---
+#Don't Change this
+version: "0.5"
+
+#send EnchantUI to the player when he interacts with the Enchanting-table
+enchanting-table: true
+
+#EnchantUI version 0.5
+Title: "§c●§l§aCỬA HÀNG CƯỜNG HÓA§c●"
+Button: "§l§c● §d{NAME} §c●"
+slider-title: "§l§eCấp độ§9 (§a Min:§c 0§a Max:§c 3000§9 )§b"
+messages:
+  thanks: "§l§f-§c[§a✔§c]§f =>§a Cảm ơn đã ghé§d Shop Enchanted§a!"
+  label: "§l§c●§9 Bạn cần số tiền là §e{PRICE}$§9 để thực hiện mua một cấp độ!"
+  not-enough-money: "§l§f-§c[§a✔§c]§f =>§c Số tiền không đủ để thực hiện!"
+  paid-success:  "§l§f-§c[§a✔§c]§f =>§a Bạn đã mua §d{NAME}§a với cấp độ §e{LEVEL}§a với mức giá§b {PRICE}$§a!"
+  hold-item:  "§l§f-§c[§a✔§c]§f =>§c Không có vật phẩm nào cần Enchant!!"
+  no-perm:  "§l§f-§c[§a✔§c]§f =>§c Bạn không có quyền dùng lệnh này!!"
+  incompatible-enchantment:
+  
+#WARNING: Use only Enchantment ID at incompatible-enchantments example [1,10,13]
+shop:
+- name: "Sự bảo vệ"
+  enchantment: 0
+  price: 500
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Phòng Chống Lửa"
+  enchantment: 1
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Lông Rơi"
+  enchantment: 2
+  price: 10000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Bảo Vệ Chống Nổ"
+  enchantment: 3
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Bảo Vệ Đạn"
+  enchantment: 4
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Gai"
+  enchantment: 5
+  price: 100000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Hô Hấp"
+  enchantment: 6
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Thủy Ái"
+  enchantment: 8
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Độ Sắc Nét"
+  enchantment: 9
+  price: 80000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Hại Thây Ma"
+  enchantment: 10
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Hại Loài Chân Đốt"
+  enchantment: 11
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Đánh Bật Lùi"
+  enchantment: 12
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Lửa"
+  enchantment: 13
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Cướp Bóc"
+  enchantment: 14
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Hiệu Quả"
+  enchantment: 15
+  price: 10000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Độ Mềm Mại"
+  enchantment: 16
+  price: 100000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Chạm Hỏng"
+  enchantment: 17
+  price: 160000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Gia Tài"
+  enchantment: 18
+  price: 40000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Sức Mạnh"
+  enchantment: 19
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Đấm"
+  enchantment: 20
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Lửa"
+  enchantment: 21
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Vô Hạn"
+  enchantment: 22
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Sữa Chữa"
+  enchantment: 26
+  price: 50000
+  max-level: 3000
+  incompatible-enchantments: []
+- name: "Kháng Bật Lùi"
+  enchantment: Antiknockback
+  price: 60000
+  max-level: 3000
+  incompatible-enchantments: []
+...

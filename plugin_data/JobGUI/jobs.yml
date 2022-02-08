@@ -1,0 +1,62 @@
+---
+wood-cutter:
+  17:0:break: 2
+  17:1:break: 2
+  17:2:break: 2
+  18:0:break: 2
+  18:1:break: 2
+  18:2:break: 2
+miner:
+  1:0:break: 1
+  4:0:break: 1
+  14:0:break: 2
+  15:0:break: 2
+  16:0:break: 2
+  21:0:break: 2
+  56:0:break: 5
+  73:0:break: 2
+  74:0:break: 2
+  129:0:break: 2
+  153:0:break: 2
+tree-planter:
+  6:0:place: 5
+  6:1:place: 5
+  6:2:place: 5
+  6:3:place: 5
+  6:4:place: 5
+  6:5:place: 5
+builder:
+  44:5:place: 1
+  44:6:place: 1
+  97:2:place: 1
+  97:3:place: 1
+  97:4:place: 1
+  97:5:place: 1
+  98:0:place: 1
+  98:1:place: 1
+  98:2:place: 1
+  98:3:place: 1
+  109:0:place: 1
+  155:0:place: 1
+  155:1:place: 1
+  155:2:place: 1
+  156:0:place: 1
+  182:1:place: 1
+  201:0:place: 1
+  201:2:place: 1
+  203:0:place: 1
+farmer:
+  59:0:break: 2
+  83:0:break: 2
+  86:0:break: 2
+  103:0:break: 2
+  104:0:break: 2
+  105:0:break: 2
+  141:0:break: 2
+  142:0:break: 2
+  244:0:break: 2
+murderer:
+  kill-people-money: 5000
+hunter:
+  kill-mobs-money: 1000
+...

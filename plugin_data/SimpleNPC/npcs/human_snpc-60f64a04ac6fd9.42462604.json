@@ -1,0 +1,20 @@
+{
+    "version": "2.1.6",
+    "identifier": "human_snpc-60f64a04ac6fd9.42462604",
+    "type": "human_snpc",
+    "nametag": "\u00a7k",
+    "world": "lobby",
+    "enableRotate": true,
+    "showNametag": false,
+    "scale": 1,
+    "commands": [
+        "rca {player} skyblock"
+    ],
+    "position": [
+        0.4842,
+        83,
+        5.5987,
+        269.69891357421875,
+        23.6436767578125
+    ]
+}

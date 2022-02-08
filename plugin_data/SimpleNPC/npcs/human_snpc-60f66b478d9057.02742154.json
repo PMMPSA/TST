@@ -1,0 +1,20 @@
+{
+    "version": "2.1.6",
+    "identifier": "human_snpc-60f66b478d9057.02742154",
+    "type": "human_snpc",
+    "nametag": "\u00a7k",
+    "world": "lobby",
+    "enableRotate": true,
+    "showNametag": false,
+    "scale": 1,
+    "commands": [
+        "rca {player} shop"
+    ],
+    "position": [
+        7.4795,
+        83,
+        12.7351,
+        175.53070068359375,
+        8.423965454101562
+    ]
+}

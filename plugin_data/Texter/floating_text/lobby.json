@@ -1,0 +1,91 @@
+{
+    "lobby": {
+        "x": 41.2,
+        "y": 90.9,
+        "z": 28,
+        "spacing": {
+            "x": 0,
+            "y": -0.4,
+            "z": 0
+        },
+        "texts": [
+            "§l§d§kiii§r§lWellcome §bT.§aS.§fT §eSkyblock §fServer§k§diii",
+            "§bĐây là một máy chủ MCPE phát dành riêng cho Omlet!",
+            "§bNghiêm cấm không được gian lận và xin Admin đồ!",
+            "§bKhông được sử dụng các phần mềm hack/cheat như Toolbox",
+            "§bCó làm thì mới có ăn, nhưng send tiền cho người nghèo hơn",
+            "§b Mất đồ thì phải tự chịu nhé, đừng có kiểu loằng ngoằng xin Ad xD",
+            "§e§lĐể tiếp tục, hãy nhấp vào NPC để chơi!"
+        ]
+    },
+    "npc1": {
+        "x": 0.5,
+        "y": 84.7,
+        "z": 5.6,
+        "spacing": {
+            "x": 0,
+            "y": -0.4,
+            "z": 0
+        },
+        "texts": [
+            "§e§lSkyBlock",
+            "§bMenu Đảo"
+        ]
+    },
+    "npc2": {
+        "x": 7.4,
+        "y": 84.7,
+        "z": 12.6,
+        "spacing": {
+            "x": 0,
+            "y": -0.5,
+            "z": 0
+        },
+        "texts": [
+            "§e§lSkyBlock",
+            "§bCửa Hàng\\Shop"
+        ]
+    },
+    "npc3": {
+        "x": 7.5,
+        "y": 85.1,
+        "z": 0.7,
+        "spacing": {
+            "x": 0,
+            "y": -0.3,
+            "z": 0
+        },
+        "texts": [
+            "§e§lSkyBlock",
+            "§bCông Việc"
+        ]
+    },
+    "pakour": {
+        "x": 30.3,
+        "y": 89.9,
+        "z": 34.3,
+        "spacing": {
+            "x": 0,
+            "y": -0.5,
+            "z": 0
+        },
+        "texts": [
+            "§e§lSkyBlock",
+            "§bShop Phù Phép"
+        ]
+    },
+    "npc4": {
+        "x": 39.6,
+        "y": 88.5,
+        "z": 21,
+        "spacing": {
+            "x": 0,
+            "y": -0.5,
+            "z": 0
+        },
+        "texts": [
+            "§bKits (Tân Thủ + Kits VIP)",
+            "§e§lNHẤP VÀO ĐÂY"
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+name: SkyBlock
+main: SkyBlock\ZulfahmiFjr\Main
+version: 1
+api: 3
+
+commands:
+ skyblock:
+     description: Lện Skyblock
